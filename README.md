@@ -22,7 +22,7 @@ Certifique-se de ter o Python instalado em sua máquina. Este projeto requer Pyt
 
 ## Uso
 
-É necessário apenas executar o arquivo `conta_bancaria.py`.
+É necessário apenas executar o arquivo `sistema_bancario.py`.
 Com isso você já será capaz de ver o "menu" com as opções em seu terminal:
   
 ![print-menu](/imgs/print-menu.png)
